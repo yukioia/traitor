@@ -65,3 +65,4 @@ New change 4 from branch1
 New change 5 from branch1
 New change 6 from branch1
 Change 7 from new clone
+Change 8 from new clone
